@@ -5,5 +5,6 @@ Simple Snake Game Using python
 - pygame
 
 
+# Screenshot
 
 ![alt tag](https://raw.githubusercontent.com/Rakshitpuniani/snake-pygame/master/snake%20game%20screenshot.png)
